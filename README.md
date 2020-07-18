@@ -244,14 +244,14 @@ Write `defaultProps` for the following:
 Review the previous Props readme for an example on default props, and/or take a
 look at the [documentation][default props] for additional guidance.
 
-###### `CardFront`
+<!-- ###### `CardFront`
 
 This component should have one prop, which should be used to apply a background
 image. This can be done inline via:
 
 ```js
 style={{backgroundImage: `url(${prop})`}}
-```
+``` -->
 
 ###### `CardBack`
 
