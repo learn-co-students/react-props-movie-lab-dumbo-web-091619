@@ -55,5 +55,5 @@ const movieData = [
     poster: 'the-trash-man'
   },
 ]
-
+ 
 export default movieData
